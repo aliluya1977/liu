@@ -12,7 +12,7 @@
   "分类起始页码": "1",
   "分类链接": "https://susuifa.com/{cateId}",
   "分类名称": "欧美剧集&欧美电影&日韩剧集&日韩电影&其它剧集&其他电影",
-  "分类名称替换词": "omjj/page/1&omdy/page/1&rhjj/page/1&rhdy/page/1&qtjj/page/1&qtdy/page/1",
+  "分类名称替换词": "omjj/page/0&omdy/page/0&rhjj/page/0&rhdy/page/0&qtjj/page/0&qtdy/page/0",
   "筛选数据": {},
   "筛选子分类名称": "",
   "筛选子分类替换词": "*",
